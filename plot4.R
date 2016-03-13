@@ -4,7 +4,7 @@
 # 1. Set directory to Exploratory Data Analysis folder
 # 2. Reads household_power_consumption.txt file
 # 3. Converts date data and subsets data from dates:"2007-02-01" to 2007-02-02"
-# 4. Creates plot4.png file with chart matching the one included in
+# 4. Creates plot4.png file with charts matching the ones included in
 # figure/unnamed-chunk-5.png
 
 setwd("/Users/cfoust/Desktop/Coursera/Exploratory Data Analysis")
